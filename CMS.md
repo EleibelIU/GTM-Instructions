@@ -50,24 +50,11 @@ After accessing the appropriate section, you can now add the GTM code to your CM
    - **Header Script**: Paste the first part of the GTM code (the `<script>` tag) into the **Header Scripts** field.
    - **Body Script**: Paste the second part of the GTM code (the `<noscript>` tag) into the **Body Scripts** field.
 
-   ![Insert GTM in CMS](https://www.wpbeginner.com/wp-content/uploads/2020/05/insertgtm.png)
-
 4. **Save the Changes**: After inserting both parts of the code, save your settings.
-
----
 
 ## 3. Verifying the GTM Tag
 
-Once the GTM code is inserted, it’s important to ensure that it’s working properly.
-
-### Steps to Verify the GTM Code:
-
-1. **Use Google Tag Manager’s Preview Mode**:
-   - Return to your [GTM account](https://tagmanager.google.com/), and click the **Preview** button in the top right corner.
-   - Enter the URL of your site to test the implementation.
-
-2. **Use the Google Tag Assistant**:
-   - Install the [Google Tag Assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/keelfcnbbclobkapmhcpoejnmlhpjkmc) Chrome extension, enable it, and visit your website. The extension will indicate whether the GTM tag is firing correctly.
+Once the GTM code is inserted, it’s important to ensure that it’s working properly. Instructions can be found in the [Testing Section](test.md)
 
 
 ## Additional Resources
