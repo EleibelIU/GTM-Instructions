@@ -12,7 +12,7 @@ Welcome to the **Google Tag Manager (GTM) Integration Instructions Repository**!
 
 Each guide is tailored to the specific platform to ensure easy integration and proper implementation. Follow the instructions that best suit your site's platform.
 
-Open a GitHub issue or shoot a messager to **liz@leibel.tech** with any questions. 
+Open a GitHub issue or shoot a message to **liz@leibel.tech** with any questions. 
 
 ---
 
