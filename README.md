@@ -1,7 +1,5 @@
 # 🛠️ Google Tag Manager (GTM) Integration Instructions
 
-
-
 <p align="center">
   <i>This repository was last updated on:</i> <br>
   <img src="https://img.shields.io/github/last-commit/EleibelIU/GTM-Instructions.svg">

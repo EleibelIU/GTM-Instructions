@@ -13,7 +13,6 @@ Most CMS platforms, including Locally.com, provide a user-friendly admin panel w
 
 1. **Log in to your CMS account**: Visit your CMS provider’s URL (for example, `yourwebsite.com/admin` or `yourwebsite.com/login`) and enter your login credentials.
    
-   ![Locally Dashboard Instructions](https://support.locally.com/en/support/solutions/articles/14000098959-managing-your-locally-com-account)
 
 2. **Navigate to the “Settings” or “Site Configuration” Section**: Once logged in, look for the **Settings**, **Site Configuration**, or **Custom Code** section within the dashboard. This is usually found under the main navigation panel.
 
@@ -62,4 +61,5 @@ Once the GTM code is inserted, it’s important to ensure that it’s working pr
 - [Locally.com Landing Page/CMS Documentation](https://support.locally.com/en/support/solutions/articles/14000098934-locally-landing-pages-dynamic-header-and-footer-design)
 - [Google Tag Manager Help](https://support.google.com/tagmanager/?hl=en)
 - [How to Test Your GTM Implementation](test.md)
+- [Locally Dashboard Instructions](https://support.locally.com/en/support/solutions/articles/14000098959-managing-your-locally-com-account)
 
