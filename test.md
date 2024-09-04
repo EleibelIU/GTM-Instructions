@@ -61,12 +61,10 @@ The **Google Tag Assistant** is a browser extension that helps to validate and t
    - Look for the **Google Tag Manager** entry. A green icon indicates that the tag is working properly.
    - If there are any issues, you’ll see a warning or error icon with suggestions on how to fix the problem.
 
-   ![Google Tag Assistant Example](https://www.optimizesmart.com/wp-content/uploads/2014/09/Tag-Assistant-example.png)
-
 5. **Review the Results**:
    - After interacting with the site, the Tag Assistant will provide detailed reports on which tags fired and if there were any issues.
 
-For further information, check out the [Google Tag Assistant Guide](https://support.google.com/tagassistant/answer/2947035?hl=en).
+For further information, check out the [Google Tag Assistant Guide](https://support.google.com/tagassistant?sjid=10380505288558053810-NC#topic=6000196).
 
 ## 3. Using Google Analytics Debugger
 
@@ -104,4 +102,5 @@ For more help, visit the [Google Analytics Debugger Documentation](https://devel
 ## Additional Resources
 - [Google Tag Manager Help Center](https://support.google.com/tagmanager/?hl=en#topic=3441530)
 - [GTM Best Practices](https://www.optimizesmart.com/google-tag-manager-best-practices/)
+- [3rd Party Google Tag Assistant Tutorial](https://measureschool.com/google-tag-assistant-tutorial/)
 
