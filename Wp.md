@@ -1,4 +1,4 @@
-# Adding Google Tag Manager to WordPress: A Step-by-Step Guide
+# Adding Google Tag Manager (GTM) to a WordPress Site
 
 > [!NOTE]
 > If you have already been provided with a configured GTM code, you may skip Step 1 in both the manual and plugin methods.
