@@ -12,8 +12,6 @@ Each guide is tailored to the specific platform to ensure easy integration and p
 
 Open a GitHub issue or shoot a message to **liz@leibel.tech** with any questions. 
 
----
-
 ## 📂 Integration Options
 
 ### 1. **Generic Static Site**
@@ -31,7 +29,6 @@ For WordPress users, adding GTM can be done in two ways: manually by editing the
 
 🔗 [View instructions for adding GTM to a WordPress Site](Wp.md)
 
----
 
 ## ✅ How to Test Your GTM Integration
 
@@ -39,15 +36,11 @@ Once you've added GTM to your site, it's important to verify that the tag is fir
 
 🔗 [Learn how to test your GTM implementation](test.md)
 
----
-
 ## What’s the Difference Between These Options?
 
 - **Generic Static Site**: This method involves manual code insertion into your site’s HTML files, providing full control but requiring basic coding knowledge.
 - **CMS (Locally.com)**: Many CMS platforms restrict direct code access. Instead, GTM is added using platform-specific tools.
 - **WordPress**: WordPress allows flexibility with both manual and plugin-based approaches to GTM integration.
-
----
 
 ## 🔍 How to Determine Your Site Type
 
