@@ -84,12 +84,10 @@ If you’re using Google Analytics in conjunction with GTM, you can use the **Go
 4. **Review Data**:
    - When you navigate through your site, the Console tab will show all the tracking information being sent to Google Analytics, including events and page views triggered by GTM.
 
-   ![Google Analytics Debugger](https://i.imgur.com/fmQaspu.png)
-
 5. **Check for GTM Events**:
    - Look for the **eventCategory**, **eventAction**, and other parameters being passed from your GTM tags. If these are missing or incorrect, you may need to adjust your GTM setup.
 
-For more help, visit the [Google Analytics Debugger Documentation](https://developers.google.com/analytics/devguides/collection/analyticsjs/debugging).
+For more help, visit the [Google Analytics Debugger Documentation](https://github.com/keithclark/gadebugger).
 
 
 ## 🎯 Best Practices for Testing GTM Tags
