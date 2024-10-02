@@ -39,7 +39,7 @@ A generic static site typically consists of HTML, CSS, and JavaScript files with
   - You can inspect the site’s source code by right-clicking on the page and selecting **View Page Source**. Look for simple HTML tags and no references to platforms or CMS.
   - Tools like [BuiltWith](https://builtwith.com/) or [Wappalyzer](https://www.wappalyzer.com/) can also confirm if no CMS is detected.
 
-### **CMS Platform **
+### CMS Platform
 A CMS-based website allows you to create and manage content without direct access to the site’s code. If your website has a backend login interface (e.g., `/admin` or `/dashboard` URL), it's likely powered by a CMS.
 - **Characteristics**: Backend access via a URL like `/admin`, `/dashboard`, or `/login`. Dynamic content managed through an interface.
 - **Tools to Verify**:
@@ -51,7 +51,9 @@ WordPress-powered sites are identifiable through their URL structure (e.g., `/wp
 - **Tools to Verify**: 
   - Use [BuiltWith](https://builtwith.com/) or [IsItWP](https://www.isitwp.com/) to detect if a site is using WordPress.
 
-### **Locally-Specific Case**
+
+
+## (NEW) Locally-Specific Case
 A [script has been created to deal with Locally's specific case](locally.js). Locally uses a centralized header and footer structure, which applies uniformly across all store landing pages. However, Google Tag Manager (GTM) typically requires a unique GTM ID for each individual store, as each ID corresponds to separate tracking configurations in Google Tag Manager. This poses a challenge when a global header is enforced, as each store's page cannot have its own specific GTM ID hardcoded into the header.
 
 ### Solution
